@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"Feba A Panicker | Developer Portfolio",description:"Portfolio of Feba A Panicker"}; export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
